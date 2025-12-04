@@ -1,5 +1,5 @@
 {
-  "harness_service": "frontend",
-  "image_tag": "rajaatt62431017-6",
-  "username": "rajaatt62431017"
+  "harness_service" : "frontend",
+  "image_tag" : "rajaatt62431017-7",
+  "username" : "rajaatt62431017"
 }
